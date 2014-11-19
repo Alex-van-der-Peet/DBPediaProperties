@@ -1,0 +1,10 @@
+C:\Source\DBPediaProperties\DBPediaProperties\bin\Debug\DBPediaProperties.exe
+C:\Source\DBPediaProperties\DBPediaProperties\bin\Debug\DBPediaProperties.pdb
+C:\Source\DBPediaProperties\DBPediaProperties\bin\Debug\DBPediaProperties.xml
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.Form1.resources
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.Resources.resources
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.vbproj.GenerateResource.Cache
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.exe
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.xml
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.pdb
+C:\Source\DBPediaProperties\DBPediaProperties\obj\x86\Debug\DBPediaProperties.SampleViewer.resources
